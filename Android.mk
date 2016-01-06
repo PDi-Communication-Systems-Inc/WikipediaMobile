@@ -12,6 +12,7 @@ LOCAL_SRC_FILES := $(call all-java-files-under)
 LOCAL_PACKAGE_NAME := org.wikipedia
 LOCAL_STATIC_JAVA_LIBRARIES := cordova
 LOCAL_JAR_EXCLUDE_FILES := none
+LOCAL_PROGUARD_ENABLED := disabled
 LOCAL_MODULE_TAGS := optional
 LOCAL_CERTIFICATE := platform
 
