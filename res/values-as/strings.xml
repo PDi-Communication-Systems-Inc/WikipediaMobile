@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="search_description">প্ৰবন্ধৰ নাম</string>
 	<string name="app_name_beta">ৱিকিপিডিয়া বেটা</string>
+	<string name="search_hint_wiki">ৱিকিপিডিয়াত সন্ধান কৰক</string>
 	<string name="app_name">ৱিকিপিডিয়া</string>
 </resources>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name_beta">විකිපීඩියා බිටා</string>
+	<string name="search_description">ලිපියේ නම</string>
+	<string name="app_name_beta">විකිපීඩියා බීටා</string>
+	<string name="search_hint_wiki">විකිපීඩියාව ගවේෂණය කරන්න</string>
 	<string name="app_name">විකිපීඩියා</string>
 </resources>

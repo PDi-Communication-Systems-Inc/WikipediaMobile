@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="search_description">ארטיקל נאָמען</string>
 	<string name="app_name_beta">וויקיפעדיע בעטא</string>
+	<string name="search_hint_wiki">זוכן וויקיפעדיע</string>
 	<string name="app_name">וויקיפעדיע</string>
 </resources>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="search_description">د ليکنې نوم</string>
 	<string name="app_name_beta">بيټا ويکيپېډيا</string>
+	<string name="search_hint_wiki">ويکيپېډيا پلټل</string>
 	<string name="app_name">ويکيپېډيا</string>
 </resources>

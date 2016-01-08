@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="search_description">Isem tal-artiklu</string>
 	<string name="app_name_beta">Wikipedija Beta</string>
+	<string name="search_hint_wiki">Fittex il-Wikipedija</string>
 	<string name="app_name">Wikipedija</string>
 </resources>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="search_description">اسم المادة</string>
 	<string name="app_name_beta">ويكيبيديا بيتا</string>
+	<string name="search_hint_wiki">ويكيبيديا البحث</string>
 	<string name="app_name">ويكيبيديا</string>
 </resources>

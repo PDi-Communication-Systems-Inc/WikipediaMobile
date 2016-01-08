@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="search_description">Ngaran artikel</string>
 	<string name="app_name_beta">Wikipédia Béta</string>
+	<string name="search_hint_wiki">Sungsi Wikipédia</string>
 	<string name="app_name">Wikipédia</string>
 </resources>

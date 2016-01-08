@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="search_description">Ainm an artaigeil</string>
 	<string name="app_name_beta">Uicipeid Beta</string>
+	<string name="search_hint_wiki">Lorg air Wikipedia</string>
 	<string name="app_name">An Uicipeid</string>
 </resources>
