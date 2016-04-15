@@ -1,5 +1,9 @@
 # Wikipedia Mobile
 
+## Deprecation notice
+
+**This project is deprecated.** Please contribute to new development in the [Android](https://phabricator.wikimedia.org/diffusion/APAW/), [iOS](https://github.com/wikimedia/Wikipedia-iOS), and [mobile web](https://phabricator.wikimedia.org/diffusion/EMFR/) apps.
+
 ## Getting started
 
 1. Setup your development environment
